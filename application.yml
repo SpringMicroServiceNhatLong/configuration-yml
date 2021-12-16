@@ -1,6 +1,0 @@
-app.name: NHATLONG
-
-#secret key
-app.jwtSecret:SecretKey
-# 12h
-app.jwtExpirationMs:43200000
